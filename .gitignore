@@ -1,0 +1,24 @@
+# IntelliJ generated or user specific files.
+build
+workspace.xml
+
+# Open Watcom IDE generated files.
+*.lk1
+*.map
+*.mk
+*.mk1
+*.obj
+*.sym
+*.lb1
+*.mk1
+
+huff.exe
+puff.exe
+hufflib.lib
+
+# LaTeX artifacts
+Ada/Huffman.aux
+Ada/Huffman.log
+Ada/Huffman.out
+Ada/Huffman.pdf
+Ada/Huffman.toc
