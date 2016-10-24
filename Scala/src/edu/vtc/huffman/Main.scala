@@ -109,7 +109,7 @@ object Main {
       }
     }
 
-    reduceWorkingSet(workingSet).toList(0)
+    reduceWorkingSet(workingSet).head
   }
 
 
