@@ -75,7 +75,7 @@ void CodeTree_initialize( CodeTree *ct )
         ct->leaves[i].P = 0.0;
         ct->sorted[i] = &ct->leaves[i];
         ct->actives[i] = &ct->leaves[i];
-        string_init( &ct->codes[i] );
+        string_construct( &ct->codes[i] );
     }
     ct->root = NULL;
 }
