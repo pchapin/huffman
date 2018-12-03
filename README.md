@@ -8,4 +8,4 @@ technological issues. This repository thus serves a purpose similar to my Hexdum
 a showcase of various programming technologies.
 
 Peter C. Chapin  
-PChapin@vtc.vsc.edu
+chapinp@acm.org  

@@ -1,6 +1,6 @@
 /*! \file    puff.c
  *  \brief   Huffman encoding based data decompression.
- *  \author  Peter C. Chapin <PChapin@vtc.vsc.edu>
+ *  \author  Peter C. Chapin <chapinp@acm.org>
  *
  * This file contains a program which analyizes and compresses files using huffman (ie
  * statistically independent) data compression. It prints a number of interesting statistics
